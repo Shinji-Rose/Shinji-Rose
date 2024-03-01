@@ -1,18 +1,18 @@
-# 👋 Hi, I’m @Lucca-The-Rose
+# 👋 Hi, I’m Shinji
 
 
-- 👀 I’m interested in:
+- I’m interested in:
 
   game making
 
-- 🌱 I’m currently learning:
+- I’m ~~currently~~ wanting to learn:
 
   c#, python
  
-- ~~💞️ I’m looking to collaborate on~~
+- ~~I’m looking to collaborate on~~
 
   nothing so far ?
 
-- 📫 How to reach me:
+- How to reach me:
 
   discord = [ lucca#2210 ]
