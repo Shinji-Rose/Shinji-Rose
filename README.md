@@ -15,4 +15,4 @@
 
 - How to reach me:
 
-  discord = [ lucca#2210 ]
+  discord = [ @lucca.rose ]
